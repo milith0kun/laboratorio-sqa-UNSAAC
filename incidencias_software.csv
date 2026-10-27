@@ -1,0 +1,11 @@
+id,categoria_error,severidad,tiempo_deteccion_hs,tiempo_reparacion_hs
+1,EEI,Serio,12,4
+2,MCC,Moderado,5,2
+3,ERD,Serio,8,6
+4,VEP,Menor,2,1
+5,EEI,Serio,10,3
+6,EDL,Serio,14,5
+7,ICI,Moderado,6,2
+8,EEI,Menor,4,1
+9,PLT,Moderado,7,3
+10,ERD,Serio,11,4
