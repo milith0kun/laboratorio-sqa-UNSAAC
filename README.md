@@ -1,6 +1,7 @@
 # 🔬 Laboratorio SQA - TechBank SAC: Análisis Estadístico y Aseguramiento de Calidad
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milith0kun/laboratorio-sqa-UNSAAC/blob/main/Pareto_ACS.ipynb)
+[![Reporte Técnico en Google Drive](https://img.shields.io/badge/Reporte%20T%C3%A9cnico-Google%20Drive-blue?logo=googledrive)](https://drive.google.com/file/d/15EzrCFTtrVu1Ybix52w4loW4mfifS-gv/view?usp=sharing)
 [![GitHub Issues](https://img.shields.io/github/issues/milith0kun/laboratorio-sqa-UNSAAC)](https://github.com/milith0kun/laboratorio-sqa-UNSAAC/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Quality Standard: ISO/IEC 25010](https://img.shields.io/badge/Standard-ISO%2FIEC%2025010-emerald.svg)](#)
