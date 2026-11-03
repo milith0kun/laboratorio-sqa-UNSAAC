@@ -11,13 +11,13 @@ Repositorio oficial del equipo **ACS-UNSAAC (Team 04)** para el desarrollo de la
 
 ---
 
-## 🏛️ Información Institucional y Equipo de Trabajo
+### 🏛️ Información Institucional y Equipo de Trabajo
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)
 - **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
 - **Escuela Profesional:** Ingeniería Informática y de Sistemas
 - **Curso:** Ingeniería de Software II (Semestre 2026-II)
-- **Docente:** Msc. Ronald Melgarejo Ramos
+- **Docente:** Edwin Alvarez Mamani
 - **Equipo:** Grupo 04 - SQA / ACS
 
 ### 👥 Integrantes del equipo de laboratorio
