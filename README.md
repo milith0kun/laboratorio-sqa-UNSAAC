@@ -20,12 +20,16 @@ Repositorio oficial del equipo **ACS-UNSAAC (Team 04)** para el desarrollo de la
 - **Docente:** Msc. Ronald Melgarejo Ramos
 - **Equipo:** Grupo 04 - SQA / ACS
 
-### 👥 Integrantes
-1. **Condori Quispe, Daniel** (215383) — *QA Lead & Modelado Estadístico*
-2. **Kuroda Cabrera, Victor Alejandro** (200336) — *Ingeniero de Automatización & Scripts*
-3. **Mendoza Ccolqque, Rony Rolando** (211363) — *Especialista SQA & Métricas ISO 25010*
-4. **Nahuamel Huayhua, Cristian** (215389) — *Arquitecto de Confiabilidad & DevOps*
-5. **Palomino Cahuana, Gabriel** (211367) — *Auditor de Calidad & Plan DMAMC*
+👥 Integrantes del equipo de laboratorio
+Motta Mendoza, Pavel Alvaro (210937) — Moderador SQA / Planificador
+
+Saire Bustamante, Edmil Jampier (174449) — Autor / Desarrollador
+
+Labra Huaita, Nayeli Constantina (195048) — Secretaria de Actas
+
+Quispe Castillo, Brayan Rodrigo (221986) — Lector Técnico
+
+Quispe Huillca, Joham Esau (211358) — Revisor SQA / Testeador
 
 ---
 
