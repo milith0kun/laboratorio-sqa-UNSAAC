@@ -20,16 +20,13 @@ Repositorio oficial del equipo **ACS-UNSAAC (Team 04)** para el desarrollo de la
 - **Docente:** Msc. Ronald Melgarejo Ramos
 - **Equipo:** Grupo 04 - SQA / ACS
 
-👥 Integrantes del equipo de laboratorio
-Motta Mendoza, Pavel Alvaro (210937) — Moderador SQA / Planificador
+### 👥 Integrantes del equipo de laboratorio
 
-Saire Bustamante, Edmil Jampier (174449) — Autor / Desarrollador
-
-Labra Huaita, Nayeli Constantina (195048) — Secretaria de Actas
-
-Quispe Castillo, Brayan Rodrigo (221986) — Lector Técnico
-
-Quispe Huillca, Joham Esau (211358) — Revisor SQA / Testeador
+1. **Motta Mendoza, Pavel Alvaro** (210937) — *Moderador SQA / Planificador*
+2. **Saire Bustamante, Edmil Jampier** (174449) — *Autor / Desarrollador*
+3. **Labra Huaita, Nayeli Constantina** (195048) — *Secretaria de Actas*
+4. **Quispe Castillo, Brayan Rodrigo** (221986) — *Lector Técnico*
+5. **Quispe Huillca, Joham Esau** (211358) — *Revisor SQA / Testeador*
 
 ---
 
